@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./entomologiasyste05fabr_0000.png"; bbox 0 0 2912 4368; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2779 1819 2818 2021">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2779 1819 2818 2021">
+     <span class='ocr_line' id='line_1_1' title="bbox 2779 1830 2803 2021; textangle 180"><span class='ocrx_word' id='word_1_1' title='bbox 2782 1959 2803 2021; x_wconf 55' lang='grc' dir='ltr'><strong>..ἵν</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 2779 1911 2803 1949; x_wconf 63' lang='lat' dir='ltr'><strong>s..</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2788 1849 2802 1869; x_wconf 53' lang='grc' dir='ltr'><strong>«ι</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2800 1830 2801 1833; x_wconf 19' lang='lat' dir='ltr'>k</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 2799 1819 2818 2005; textangle 180"><span class='ocrx_word' id='word_1_5' title='bbox 2799 1999 2808 2005; x_wconf 78' lang='grc'>-</span> <span class='ocrx_word' id='word_1_6' title='bbox 2806 1947 2818 1961; x_wconf 68' lang='grc' dir='ltr'><strong>ν,</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2806 1819 2815 1829; x_wconf 55' lang='grc' dir='ltr'><strong>η</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2746 1586 2879 1612">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2746 1586 2879 1612">
+     <span class='ocr_line' id='line_1_3' title="bbox 2746 1586 2879 1612; baseline 0 -9"><span class='ocrx_word' id='word_1_8' title='bbox 2746 1588 2842 1612; x_wconf 38' lang='grc' dir='ltr'><strong>,ι”.ζ</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2867 1586 2879 1603; x_wconf 72' lang='grc'><strong>.“</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 173 411 188 749">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 173 411 188 749">
+     <span class='ocr_line' id='line_1_4' title="bbox 173 411 188 749; textangle 180"><span class='ocrx_word' id='word_1_10' title='bbox 179 698 186 749; x_wconf 58' lang='lat' dir='ltr'><strong>:av-⁴</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 178 584 188 607; x_wconf 38' lang='lat' dir='ltr'><strong>sy«</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 181 572 185 579; x_wconf 68' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_13' title='bbox 181 562 184 566; x_wconf 39' lang='lat' dir='ltr'>f</span> <span class='ocrx_word' id='word_1_14' title='bbox 173 411 186 460; x_wconf 51' lang='grc'><strong>..24</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
